@@ -1,2 +1,3 @@
 # homework-2
-Bootstrap homework
+Frst git push Friday - 
+Worked on  
